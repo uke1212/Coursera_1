@@ -1,11 +1,11 @@
 # This is the code book for tidy data set "tidy_data_set.txt"
 
 # Data read from project data files.
-TRAIN
-X_train - train/X_train.txt
-Activities_train - train/Y_train.txt
-Sbj_train - train/subject_train.txt
-TEST
+# TRAIN
+- X_train - train/X_train.txt
+- Activities_train - train/Y_train.txt
+- Sbj_train - train/subject_train.txt
+# TEST
 X_TEST - train/X_train.txt
 Activities_test - train/Y_train.txt
 Sbj_test - train/subject_train.txt
