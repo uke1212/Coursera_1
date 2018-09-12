@@ -1,5 +1,4 @@
-# Code book
-## This is the code book for tidy data set "tidy_data_set.txt"
+# This is the code book for tidy data set "tidy_data_set.txt"
 
 # Data read from project data files.
 TRAIN
