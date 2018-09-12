@@ -1,5 +1,5 @@
-Code book
-This is the code book for tidy data set "tidy_data_set.txt"
+# Code book
+## This is the code book for tidy data set "tidy_data_set.txt"
 
 Variables Description
 Data read from project data files.
